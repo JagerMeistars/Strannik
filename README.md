@@ -10,7 +10,7 @@ At the moment, you can *download the game* here in this repository and run it **
 In the window that opens, select the *language*, *screen resolution*, and write your *name*.  
 At the moment, this is almost everything - then you can write answers to questions from the neural network in a special line, and it will generate content for you.  
 
-Revision from **05.01.2025**, the game version is **Alpha**.
+Revision from **05.01.2025**, the game version is **Nothing**.
 ## RU
 ### Что такое *Strannik*?
 ***Strannik*** - это (*пока*) текстовая игра для одного игрока (*тоже пока*).  
@@ -22,4 +22,4 @@ Revision from **05.01.2025**, the game version is **Alpha**.
 В открывшемся окне выберите *язык*, *разрешение экрана* и введите свое *имя*.  
 На данный момент это практически все - затем вы можете писать ответы на вопросы от нейросети в специальную строку, и нейросеть сгенерирует для вас контент.  
 
-Редакция от **05.01.2025**, версия игры **Альфа**.
+Редакция от **05.01.2025**, версия игры **Отсутствует**.
